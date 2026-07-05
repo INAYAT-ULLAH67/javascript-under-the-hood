@@ -1,0 +1,16 @@
+node_modules/
+
+# Python Virtual Environments (Ignores your local jsvenv setup)
+jsvenv/
+.venv/
+venv/
+ENV/
+
+# Local Build Output
+# (Optional: Usually we only track the source code `src/input.css` 
+# and let the build tool generate the dist folder locally)
+dist/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
